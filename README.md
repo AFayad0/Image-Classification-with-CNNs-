@@ -5,4 +5,4 @@ classification on the provided dataset. The dataset consists of 8 different clas
 main difficulty  lies in the presence of a domain shift between
 training and test data, as you can see by inspecting the dataset.
 
-Link to kaggle compitition: //www.kaggle.com/competitions/aiunict-2023/data
+Link to kaggle compitition: www.kaggle.com/competitions/aiunict-2023/data
